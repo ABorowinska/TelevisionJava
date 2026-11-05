@@ -1,4 +1,4 @@
-#TV Simulator in Java
+##TV Simulator in Java
 
 A simple Object-Oriented Programming (OOP) project simulating the basic functionalities of a television set. The project is written in Java and demonstrates core OOP concepts such as class design, object creation, constructors, state management, and basic logic flow.
 
